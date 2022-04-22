@@ -76,6 +76,10 @@ python3 bot.py
 </details>
 
 
+### Deply on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/KoxSoG?referralCode=toxicevamaria)
+
+
 ## Commands
 ```
 • /logs - to get the rescent errors
